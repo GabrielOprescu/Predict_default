@@ -5,6 +5,7 @@ library(ggplot2)
 library(xgboost)
 
 
+# citire date -------------------------------------------------------------
 train = read.csv('application_train.csv', header = TRUE, stringsAsFactors = FALSE)
 
 
