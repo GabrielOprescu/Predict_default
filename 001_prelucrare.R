@@ -6,7 +6,7 @@ library(xgboost)
 
 
 train = read.csv('application_train.csv', header = TRUE, stringsAsFactors = FALSE)
-ads
+
 
 # scoatere na / transformare caracter in numeric --------------------------
 
